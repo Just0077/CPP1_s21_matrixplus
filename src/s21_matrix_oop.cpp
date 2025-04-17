@@ -1,4 +1,4 @@
-#include "S21_matrix_oop.h"
+#include "s21_matrix_oop.h"
 
 // constructors
 S21Matrix::S21Matrix() {  // без аргумментов

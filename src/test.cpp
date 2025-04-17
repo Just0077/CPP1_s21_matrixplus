@@ -2,7 +2,7 @@
 
 #include <stdexcept>
 
-#include "S21_matrix_oop.h"
+#include "s21_matrix_oop.h"
 
 TEST(Constructor, Default) {
   S21Matrix temp;
